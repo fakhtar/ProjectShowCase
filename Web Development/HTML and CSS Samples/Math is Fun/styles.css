@@ -1,0 +1,152 @@
+#container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+h1 a {
+  font-size: 40px;
+  font-weight: 100;
+  color: #8C3190;
+  text-decoration: none;
+}
+
+#searchBox {
+  float: right;
+  background: linear-gradient(#FF83F6, #FFECF6);
+  width: 400px;
+  height: 50px;
+  padding: 20px 20px 0px 20px;
+  margin-top: 10px;
+}
+
+#brand {
+  float: left;
+}
+
+#header {
+  height: 100px;
+  padding: 10px 0px;
+}
+
+.text {
+  float: left;
+  width: 200px;
+  padding: 5px;
+  font-size: 15px;
+  color: #FF83F6;
+  background: white url(search.png) right center;
+  background-repeat: no-repeat;
+  background-size: 10% 90%;
+}
+
+.submit {
+  float: right;
+  padding: 5px;
+  font-weight: bold;
+  color: black;
+  background-color: #FFECF6
+}
+
+.clear {
+  clear: both;
+}
+
+#menu {
+  height: 50px;
+  background: linear-gradient(#FF83F6, #FFECF6);
+  padding: 3px 0;
+}
+
+ul {
+  list-style: none;
+}
+
+#menu ul li {
+  float: left;
+  padding: 0 20px;
+  height: 30px;
+  border-right: 1px solid #5d12e7;
+  line-height: 30px;
+}
+
+#menu ul li a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 18px;
+  color: #5d12e7;
+  transition: font-size 0.5s ease;
+  --webkit-transition: font-size 0.5s ease;
+  -moz-transition: font-size 0.5s ease;
+  -o-transition: font-size 0.5s ease;
+  -ms-transition: font-size 0.5s ease;
+}
+
+#menu ul li:last-child {
+  border-right: none;
+}
+
+#menu ul li a:hover, #menu ul li a.active {
+  font-size: 20px;
+  font-weight: bold
+}
+
+#introduction {
+  background: linear-gradient(#FF83F6, #FFECF6);
+  padding: 30px 30px;
+  margin: 15px 0;
+}
+
+#introduction h3 {
+  font-size: 45px;
+  color: Purple;
+}
+
+#introduction p {
+  font-size: 25px;
+  color: Purple;
+  text-align: justify;
+}
+
+.sidebar {
+  height: 500px;
+  width: 450px;
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+#leftsidebar {
+  float: left;
+}
+#rightsidebar {
+  float: right;
+}
+.sidebar h3{
+  color: #FF83F6;
+  font-size: 30px;
+}
+.sidebar ul li a{
+  text-decoration: none;
+  font-size: 25px;
+  color: #FF83F6;
+}
+.sidebar ul li a:hover, .sidebar ul li a.active{
+  text-decoration: none;
+    color: Purple;
+    font-size: 30px;
+    font-weight: bold;
+    transition: font-size 0.5s ease;
+    --webkit-transition: font-size 0.5s ease;
+    -moz-transition: font-size 0.5s ease;
+    -o-transition: font-size 0.5s ease;
+    -ms-transition: font-size 0.5s ease;
+}
+#leftsidebar ul li {
+  padding-bottom: 7px;
+  padding-left: 7px;
+  list-style-image: url(arrow.png);
+}
+#rightsidebar ul li {
+  padding-bottom: 7px;
+  padding-left: 7px;
+  list-style-image: url(check.png);
+}
