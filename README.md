@@ -4,3 +4,8 @@ In this repository, I showcase some of the work I have done. Some projects are n
 # Math is Fun in CSS and HTML
 A homepage for a math tutoring site using HTML and CSS. All transition and effects are done with CSS. 
 http://1faisal.offyoucode.co.uk/MathIsFun/
+
+
+# Math Game in CSS Javascript and HTML
+A simple math game that uses CSS, JavaScript and HTML to generate math questions and answers.
+http://1faisal.offyoucode.co.uk/MathGame/
