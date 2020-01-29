@@ -18,3 +18,4 @@ http://1faisal.offyoucode.co.uk/MathGame/
 
 #### Simple Charts
 Simple charts using matplotlib.pyplot
+https://github.com/fakhtar/ProjectShowCase/blob/master/Data%20Science/Simple%20Charts.ipynb
