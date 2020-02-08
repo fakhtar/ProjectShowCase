@@ -19,3 +19,7 @@ http://1faisal.offyoucode.co.uk/MathGame/
 #### Simple Charts
 Simple charts using matplotlib.pyplot
 https://github.com/fakhtar/ProjectShowCase/blob/master/Data%20Science/Simple%20Charts.ipynb
+
+#### Simple Chart Using API
+Simple chart using API to pull data from third party sources
+https://github.com/fakhtar/ProjectShowCase/blob/master/Data%20Science/Chart%20Using%20API.ipynb
