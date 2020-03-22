@@ -19,7 +19,7 @@ These forms were developed using knockout.js. I was not permitted to post the so
 
 ## Data Science
 
-## Web Scraping
+### Web Scraping
 Scraping for information about books in my library from Google books using beautiful soup. Reads in a CSV os ISBN and returns a dataframe of book information. <br>
 <a href='https://github.com/fakhtar/ProjectShowCase/blob/master/Data%20Science/Books%20Information%20using%20Google%20Books%20Scraping.ipynb'>Google Books Web Scraper</a>
 
