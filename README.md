@@ -1,6 +1,10 @@
 # Project Show Case
 In this repository, I showcase some of the work I have done. Some projects are not actual work for clients as many clients have required me to keep the content confidential but simply a sample of the work with the content and images repalced by placeholders.
 
+## Writing Samples
+<br>
+<a href='https://simpleprogrammer.com/online-personal-branding/'>A Programmer’s Guide to Online Personal Branding</a>
+
 ## CSS HTML and JavaScript
 
 #### Math is Fun (CSS, HTML)
@@ -33,9 +37,12 @@ www.kaggle.com/dataset/25fb0c2a4d278799312a961807b4bd9c89c8d3de550a1984763552382
 ### Pyplot
 
 #### Simple Charts
-Simple charts using matplotlib.pyplot
-https://github.com/fakhtar/ProjectShowCase/blob/master/Data%20Science/Simple%20Charts.ipynb
+<br>
+<a href='https://github.com/fakhtar/ProjectShowCase/blob/master/Data%20Science/Simple%20Charts.ipynb'>Simple charts using matplotlib.pyplot</a>
+
 
 #### Simple Chart Using API
-Simple chart using API to pull data from third party sources
-https://github.com/fakhtar/ProjectShowCase/blob/master/Data%20Science/Chart%20Using%20API.ipynb
+<br>
+<a href='https://github.com/fakhtar/ProjectShowCase/blob/master/Data%20Science/Chart%20Using%20API.ipynb'>Simple chart using API to pull data from third party sources</a>
+
+
