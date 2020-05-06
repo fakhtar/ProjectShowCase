@@ -4,6 +4,19 @@ In this repository, I showcase some of the work I have done. Some projects are n
 ## Writing Samples
 <a href='https://simpleprogrammer.com/online-personal-branding/'>A Programmer’s Guide to Online Personal Branding</a>
 
+## Video Samples
+<ul>
+<li><a href='https://youtu.be/c8lr8mV-_Eg/'>For Loops for Program Repetition</a></li>
+<li><a href='https://youtu.be/ngvUujVYxds/'>User Inputs and Type Casting in Python</a></li>
+<li><a href='https://youtu.be/ATGIvXFeEw4/'>Dictionaries in Python</a></li>
+<li><a href='https://youtu.be/CItFu1v8u_Q/'>Equality Operators and Else-If Conditions</a></li>
+<li><a href='https://youtu.be/4houDL9pXy0/'>Controlling Program Flow Using If Statements</a></li>
+<li><a href='https://youtu.be/1lACnYejU2I/'>How to Track Commit and Push Changes to GitHub</a></li>
+<li><a href='https://youtu.be/oqacETZqmmc/'>Working with Lists in Python</a></li>
+<li><a href='https://youtu.be/lsWnRRmoceg/'>Basic Data Types in Python</a></li>
+<li><a href='https://youtu.be/7_7_mrdREag/'>Install and Run Python and Visual Studio Code</a></li>
+</ul>
+
 ## CSS HTML and JavaScript
 
 #### Math is Fun (CSS, HTML)
