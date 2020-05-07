@@ -2,7 +2,10 @@
 In this repository, I showcase some of the work I have done. Some projects are not actual work for clients as many clients have required me to keep the content confidential but simply a sample of the work with the content and images repalced by placeholders.
 
 ## Writing Samples
-<a href='https://simpleprogrammer.com/online-personal-branding/'>A Programmer’s Guide to Online Personal Branding</a>
+<ul>
+<li><a href='https://simpleprogrammer.com/online-personal-branding/'>A Programmer’s Guide to Online Personal Branding</a></li>
+<li><a href='https://simpleprogrammer.com/lean-software-solutions/'>How You Can Turn a Short Developer Assignment Into a 9-Year Job</a></li>
+</ul>
 
 ## Video Samples
 <ul>
