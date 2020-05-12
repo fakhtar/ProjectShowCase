@@ -9,6 +9,7 @@ In this repository, I showcase some of the work I have done. Some projects are n
 
 ## Video Samples
 <ul>
+ <li><a href='https://youtu.be/aB3yDayCjrQ/'>While Loops in Python</a></li>
 <li><a href='https://youtu.be/c8lr8mV-_Eg/'>For Loops for Program Repetition</a></li>
 <li><a href='https://youtu.be/ngvUujVYxds/'>User Inputs and Type Casting in Python</a></li>
 <li><a href='https://youtu.be/ATGIvXFeEw4/'>Dictionaries in Python</a></li>
