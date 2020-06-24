@@ -50,8 +50,7 @@ Scraping for information about books in my library from Google books using beaut
 ### Data Set
 Data set of deer images contributed to kaggle can be used for simple image classification using SVM. 
 <br>
-<a href='
-www.kaggle.com/dataset/25fb0c2a4d278799312a961807b4bd9c89c8d3de550a19847635523824e48736'>Deer images dataset</a>
+<a href='https://www.kaggle.com/dataset/25fb0c2a4d278799312a961807b4bd9c89c8d3de550a19847635523824e48736'>Deer images dataset</a>
 
 ### Pyplot
 
