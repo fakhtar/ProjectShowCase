@@ -3,6 +3,7 @@ In this repository, I showcase some of the work I have done. Some projects are n
 
 ## Writing Samples
 <ul>
+  <li><a href='https://simpleprogrammer.com/models-of-trust-blockchain/'>Models Of Trust – How Blockchain Will Transform Industries</a></li>
 <li><a href='https://simpleprogrammer.com/satoshi-nakamoto-changed-world/'>“I Am Satoshi Nakamoto” – How One Programmer Changed the World</a></li>
 <li><a href='https://simpleprogrammer.com/online-personal-branding/'>A Programmer’s Guide to Online Personal Branding</a></li>
 <li><a href='https://simpleprogrammer.com/lean-software-solutions/'>How You Can Turn a Short Developer Assignment Into a 9-Year Job</a></li>
@@ -11,6 +12,7 @@ In this repository, I showcase some of the work I have done. Some projects are n
 
 ## Video Samples
 <ul>
+<li><a href='https://youtu.be/ZG8KN2e2FFk'>Recursion and Recursive Functions</a></li>
 <li><a href='https://youtu.be/PhrfN-cGSXM'>Debugging and Watching Code Execution</a></li>
  <li><a href='https://youtu.be/aB3yDayCjrQ/'>While Loops in Python</a></li>
 <li><a href='https://youtu.be/c8lr8mV-_Eg/'>For Loops for Program Repetition</a></li>
