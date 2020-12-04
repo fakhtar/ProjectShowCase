@@ -28,6 +28,23 @@ In this repository, I showcase some of the work I have done. Some projects are n
 <li><a href='https://youtu.be/7_7_mrdREag/'>Install and Run Python and Visual Studio Code</a></li>
 </ul>
 
+## Data Structures and Algorithms
+
+### Queue
+Implemeneted <a href='https://github.com/fakhtar/DataStructuresAndAlgorithms/tree/master/Queue'>queue data structure</a> in Python with unit tests.
+
+### Binary Max Heap
+Implemeneted <a href='https://github.com/fakhtar/DataStructuresAndAlgorithms/tree/master/Binary%20Heap'>binary max heap</a> in JavaScript. Unit tests can be run with mocah test.
+
+### Stack
+Implemeneted <a href='https://github.com/fakhtar/DataStructuresAndAlgorithms/tree/master/stackInJava'>stack data structure</a> in Java. Unit tests are included with project and used stack to solve the bracket balancing probelm. []{{()}}
+
+### Trie
+Implemeneted <a href='https://github.com/fakhtar/DataStructuresAndAlgorithms/tree/master/Trie'>trie data structure</a> in Python. Unit tests are included with project and used a naieve implementation of trie to stress test my implementation.
+
+### Disjoint Sets
+Implemeneted <a href='https://github.com/fakhtar/DataStructuresAndAlgorithms/tree/master/Disjoint%20sets'>disjoint sets</a> in JavaScript. Unit tests are included with project.
+
 ## CSS HTML and JavaScript
 
 #### Math is Fun (CSS, HTML)
