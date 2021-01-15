@@ -51,6 +51,11 @@ Implemeneted <a href='https://github.com/fakhtar/DataStructuresAndAlgorithms/tre
 ### Graph
 Implemeneted <a href='https://github.com/fakhtar/DataStructuresAndAlgorithms/tree/master/Graph'>graph</a> in Python. Unit tests are included with project.
 
+### Bellman Ford Algorithm
+Implemeneted <a href='https://github.com/fakhtar/DataStructuresAndAlgorithms/tree/master/Graph'>bellman-ford algorithm</a> on an undirected graph in Python. Used a dictionary to represent graph.
+
+### Dijkstras Algorithm
+Implemeneted <a href='https://github.com/fakhtar/DataStructuresAndAlgorithms/tree/master/Directed%20Graph'>dijkstras algorithm</a> on a directed graph in Python. Used a dictionary to represent graph.
 
 ## CSS HTML and JavaScript
 
