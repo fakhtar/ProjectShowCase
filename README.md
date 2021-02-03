@@ -14,6 +14,7 @@ In this repository, I showcase some of the work I have done. Some projects are n
 
 ## Video Samples
 <ul>
+<li><a href='https://youtu.be/WprsfC5Ueo4'>How to Get and Entry-Level Job in Cloud Computing</a></li>
 <li><a href='https://youtu.be/WqIX2AqkClc'>Exception Handling in Python</a></li>
 <li><a href='https://youtu.be/0n8WpeL8l7A'>Files and "with" statement in Python</a></li>
 <li><a href='https://youtu.be/YxIhO4w06Rw'>Lambda Functions in Python</a></li>
