@@ -3,6 +3,7 @@ In this repository, I showcase some of the work I have done. Some projects are n
 
 ## Writing Samples
 <ul>
+    <li><a href='https://theenigmaticcreation.in/2021/02/18/value-of-certifications-for-software-engineers/'>Value of Certifications for Software Engineers</a></li>
     <li><a href='https://simpleprogrammer.com/future-cloud-computing/'>Get Your Head in The Cloud – Why Developers and Designers Need to Sign Up For AWS</a></li>
   <li><a href='https://simpleprogrammer.com/aws-certified-architect-associate-exam/'>How to Pass The AWS Certified Architect Associate Exam</a></li>
   <li><a href='https://simpleprogrammer.com/models-of-trust-blockchain/'>Models Of Trust – How Blockchain Will Transform Industries</a></li>
