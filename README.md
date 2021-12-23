@@ -15,6 +15,8 @@ In this repository, I showcase some of the work I have done. Some projects are n
 
 ## Video Samples
 <ul>
+<li><a href='https://youtu.be/bCzAx4oV3s0'>Deploy Static Site Using Terraform - Cloud Project - Web Chat with AWS Lex, Lambda and CloudFront - Part 3</a></li>
+<li><a href='https://youtu.be/xYXCUJriDeU'>How to Build a Chatbot Using Amazon Lex, Lambda and the Python Requests Library</a></li>
 <li><a href='https://youtu.be/WprsfC5Ueo4'>How to Get and Entry-Level Job in Cloud Computing</a></li>
 <li><a href='https://youtu.be/WqIX2AqkClc'>Exception Handling in Python</a></li>
 <li><a href='https://youtu.be/0n8WpeL8l7A'>Files and "with" statement in Python</a></li>
@@ -28,9 +30,6 @@ In this repository, I showcase some of the work I have done. Some projects are n
 <li><a href='https://youtu.be/CItFu1v8u_Q/'>Equality Operators and Else-If Conditions</a></li>
 <li><a href='https://youtu.be/4houDL9pXy0/'>Controlling Program Flow Using If Statements</a></li>
 <li><a href='https://youtu.be/1lACnYejU2I/'>How to Track Commit and Push Changes to GitHub</a></li>
-<li><a href='https://youtu.be/oqacETZqmmc/'>Working with Lists in Python</a></li>
-<li><a href='https://youtu.be/lsWnRRmoceg/'>Basic Data Types in Python</a></li>
-<li><a href='https://youtu.be/7_7_mrdREag/'>Install and Run Python and Visual Studio Code</a></li>
 </ul>
 
 ## Data Structures and Algorithms
